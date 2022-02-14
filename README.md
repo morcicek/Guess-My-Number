@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Guess-My-Number(Screenshot).png)
 
 ### Links
 
