@@ -19,8 +19,8 @@ check.addEventListener("click", () => {
     number.textContent = secretNumber;
     if (score.value > highscore.value) {
       highscore.value = score.value;
-    } else {
-      highscore.value = score.value;
+      // } else {
+      //   highscore.value = score.value;
     }
   } else if (score.value > 1) {
     if (guess > secretNumber) {

@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![](./Guess-My-Number(Screenshot).png)
+![](<./Guess-My-Number(Screenshot).png>)
 
 ### Links
 
@@ -54,8 +54,6 @@ const proudOfThisFunc = () => {
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 
 ## Author
 
